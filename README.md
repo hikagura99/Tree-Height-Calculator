@@ -6,3 +6,5 @@ Things I added:
 * Conversion from one system to the other at the end;
 * String comparing to check the choice made;
 * An error message in case the distance is set to 0.
+
+If you stumble upon here, feel free to make suggestions (and please explain them to me I'm still learning lol).
